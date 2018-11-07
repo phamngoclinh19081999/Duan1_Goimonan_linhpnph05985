@@ -21,21 +21,21 @@
             android:layout_gravity="center">
 
             <TextView
-                android:id="@+id/tvSoban"
+                android:id="@+id/tvSobans"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Số bàn :"
+                android:text="STT :"
                 android:textColor="@color/colorPrimary"
                 android:paddingBottom="8dp"/>
             <TextView
-                android:id="@+id/tvSotang"
+                android:id="@+id/tvSotangs"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Số tầng :"
+                android:text="Thời gian :"
                 android:textColor="@color/colorPrimary"
                 android:paddingBottom="8dp"/>
             <TextView
-                android:id="@+id/tvTongtien"
+                android:id="@+id/tvTongtiens"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Tổng tiền :"
