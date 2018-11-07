@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">Duan1_Goimonan_linhpnph05985</string>
+    <string name="edittext_hint"><font size="10">Phamngoclinhb8@gmail.com</font></string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="dangki">Đăng kí</string>
+    <string name="quenmatkhau">Quên mật khẩu</string>
+    <string name="email">Email</string>
+    <string name="diachi">188 Thượng Đình, Thanh Xuân, Hà nội</string>
+    <string name="pass">Password</string>
+    <string name="cfpass">Confirmpassword</string>
+    <string name="gg">Đăng nhập với tài khoản gmail</string>
+    <string name="phone">Phone</string>
+    <string name="username">Username</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="datban">Đặt bàn</string>
+    <string name="menu">Menu</string>
+    <string name="ls">Lịch sử</string>
+    <string name="bando">Bản đồ</string>
+    <string name="dangxuat">Đăng xuất</string>
 </resources>
